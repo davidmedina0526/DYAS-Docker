@@ -2,6 +2,20 @@
 
 ## Trabajado por: David Medina, Andrea Sosa, Samuel Rodríguez y Juan Gómez
 
+### Capturas de pantalla
+
+![Imagen de WhatsApp 2025-04-29 a las 17 22 38_404a8a99](https://github.com/user-attachments/assets/7c2241b2-37c9-4c06-9e48-a3f309f1568c)
+
+![Imagen de WhatsApp 2025-04-29 a las 17 30 05_45471787](https://github.com/user-attachments/assets/ff2990ae-0d76-4e43-878a-ca39e50e0bc9)
+
+![Imagen de WhatsApp 2025-04-29 a las 17 30 22_cbec45c8](https://github.com/user-attachments/assets/9fc8e6f2-e0ef-431f-89ae-1a47ad89c7cc)
+
+![Imagen de WhatsApp 2025-05-03 a las 17 46 18_cdef16df](https://github.com/user-attachments/assets/802187f9-2778-4de3-920f-3cd0db329911)
+
+![Imagen de WhatsApp 2025-05-03 a las 17 51 57_b93424d4](https://github.com/user-attachments/assets/3b17f7fc-059b-40bc-b901-1247f9392416)
+
+![Imagen de WhatsApp 2025-05-03 a las 17 53 15_9309ac2f](https://github.com/user-attachments/assets/537b8352-1777-4053-9831-463f45fcaead)
+
 ## Crear imágenes propias
 
 Ya hemos visto cómo usar imágenes de terceros para crear aplicaciones y servicios. Pero, ¿qué pasa si no hay ninguna imagen que tenga lo que queremos? ¿O si queremos hacer una imagen de nuestra aplicación para distribuirla?
