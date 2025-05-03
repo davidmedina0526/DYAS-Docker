@@ -1,5 +1,7 @@
 # Taller de Docker
 
+## Trabajado por: David Medina, Andrea Sosa, Samuel Rodríguez y Juan Gómez
+
 ## Crear imágenes propias
 
 Ya hemos visto cómo usar imágenes de terceros para crear aplicaciones y servicios. Pero, ¿qué pasa si no hay ninguna imagen que tenga lo que queremos? ¿O si queremos hacer una imagen de nuestra aplicación para distribuirla?
